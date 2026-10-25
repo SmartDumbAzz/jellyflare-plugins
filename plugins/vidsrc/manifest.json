@@ -1,0 +1,9 @@
+{
+  "id": "vidsrc",
+  "name": "VidSrc Stream Provider",
+  "version": "1.0.0",
+  "description": "Stream movies and TV episodes directly from VidSrc embeds using TMDB IDs, with watch progress tracking.",
+  "author": "Community",
+  "entryUrl": "https://vidsrc.tw",
+  "repoUrl": "https://github.com/SmartDumbAzz/jellyflare-plugins"
+}

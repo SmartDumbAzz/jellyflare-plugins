@@ -1,0 +1,16 @@
+{
+  "name": "JellyFlare Community Plugin Repository",
+  "description": "Official community plugins catalog for JellyFlare media system",
+  "version": "1.0.0",
+  "plugins": [
+    {
+      "id": "vidsrc",
+      "name": "VidSrc Stream Provider",
+      "version": "1.0.0",
+      "description": "Stream movies and TV episodes directly from VidSrc embeds using TMDB IDs, with watch progress tracking.",
+      "author": "Community",
+      "entryUrl": "https://vidsrc.tw",
+      "manifestUrl": "https://raw.githubusercontent.com/SmartDumbAzz/jellyflare-plugins/main/plugins/vidsrc/manifest.json"
+    }
+  ]
+}
